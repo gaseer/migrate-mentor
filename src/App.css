@@ -48,3 +48,25 @@ button {
   color: white;
   text-decoration: underline;
 }
+
+#logged in PAGE 
+.logged-in-container h2 {
+  /* Styles for the welcome message */
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.logged-in-container h3 {
+  /* Styles for the email */
+  font-family: 'Arial', sans-serif;
+  color: #555;
+}
+
+.logged-in-container img {
+  /* Styles for the user image */
+  border-radius: 50%;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
